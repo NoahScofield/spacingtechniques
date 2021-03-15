@@ -1,0 +1,57 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+
+
+.redbox{
+    background-color: red;
+    width:200px;
+    height:200px;
+    position: absolute;
+    bottom:0;
+    left:418px;
+    right:402px;
+    margin:auto;
+}
+
+.bluebox{
+    background-color: blue;
+    width:100px;
+    height:100px;
+    position: absolute;
+    bottom:166px;
+    left:557px;
+    right: 365px;
+    margin:auto;
+}
+
+.yellowbox{
+    background-color: yellow;
+    width:150px;
+    height:150px;
+    position: absolute;
+    bottom:125px;
+    left:333px;
+    right: 540px;
+    margin: auto;
+}
+
+
+.general{
+    display: flex;
+    margin: auto;
+}
+
+
+
+nav{
+    background-color: #D6EFFF;
+    position: absolute;
+    right: 100px;
+    bottom: 0;
+    float: right;
+}
+

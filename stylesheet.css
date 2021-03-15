@@ -1,0 +1,54 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+
+
+.redbox{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: fixed;
+    top: 93px;
+}
+
+.bluebox{
+    background-color: blue;
+    width:100px;
+    height:100px;
+    position: fixed;
+    left:0;
+    top: 0;
+    margin: auto;
+}
+
+.yellowbox{
+    background-color: yellow;
+    width:150px;
+    height:150px;
+    position: fixed;
+    top:0;
+    right:0;
+    margin: auto;
+
+}
+
+
+.general{
+    display:flex;
+    margin: auto;
+    justify-content: center;
+}
+
+
+
+nav{
+    background-color: #D6EFFF;
+    position: absolute;
+    right: 100px;
+    bottom: 0;
+    float: right;
+}
+
