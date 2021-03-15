@@ -13,7 +13,6 @@ html, body{
     position: fixed;
     top: 0;
     left: 0;
-    display: flex;
     margin: auto;
 }
 
@@ -25,7 +24,6 @@ html, body{
     top:0;
     left:221px;
     margin: auto;
-    display: flex;
 }
 
 .yellowbox{
@@ -34,7 +32,6 @@ html, body{
     height:150px;
     position:fixed;
     margin: auto;
-    display: flex;
     top:122px;
     left:221px;
 }
